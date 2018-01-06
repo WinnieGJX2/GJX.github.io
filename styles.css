@@ -101,20 +101,10 @@ img {
 		background-color: #ffffdf;
 		border: 2px solid #e8cfa9;
 	}
+	
 
 	.Ingredients h3 {
 		margin: 0;
 	}
 }
 
-@media screen and (min-width: 50rem)
-styles.css:95
-.Ingredients {
-    font-size: .9rem;
-    float: right;
-    padding: 1rem;
-    margin: 0 0 .5rem 1rem;
-    border-radius: 3px;
-    background-color: #ffffdf;
-    border: 2px solid #e8cfa9;
-}
